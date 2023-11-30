@@ -1,3 +1,3 @@
 # The Wild Oasis
 
-Biggest Project So Far
+Built With React Query and Supabase
